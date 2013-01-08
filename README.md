@@ -4,4 +4,4 @@ Instead, it is optimized to be under 1K (when run through the
 
 Here's what it looks like:
 
-![Preview](https://raw.github.com/georgecalm/uber_binary_clock/master/img/uber_binary_clock.png)
+![Preview](https://raw.github.com/nemtsov/uber_binary_clock/master/img/uber_binary_clock.png)
